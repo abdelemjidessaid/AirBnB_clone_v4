@@ -493,4 +493,4 @@ Write a JavaScript script (`static/scripts/101-hbnb.js`):
 * File: `web_dynamic/101-hbnb.py`, `web_dynamic/templates/101-hbnb.html`, `web_dynamic/static/scripts/101-hbnb.js`
 
 
-[-> Abdelemjid Essaid]()
+[-> Abdelemjid Essaid](https://github.com/abdelemjidessaid/AirBnB_clone_v4/tree/main/web_dynamic)
